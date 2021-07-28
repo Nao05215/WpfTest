@@ -5,6 +5,7 @@ using System.Windows;
 
 namespace WpfTest
 {
+	// test
 	public class Shell : Application
 	{
 		/// <summary>
